@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "price": 29,
+    "period": "mo",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["Unlimited AI generations", "50+ writing templates", "Grammar checker"],
+    "icon": "fa-solid fa-pen-nib"
+  },
+  {
+    "id": 2,
+    "name": "Design Templates Pack",
+    "description": "2000+ premium templates for social media, presentations, and marketing materials.",
+    "price": 49,
+    "period": "One-Time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["2000+ templates", "Monthly updates", "Commercial license"],
+    "icon": "fa-solid fa-palette"
+  },
+  {
+    "id": 3,
+    "name": "Premium Stock Assets",
+    "description": "Access millions of royalty-free photos, videos, and graphics for your projects.",
+    "price": 19,
+    "period": "mo",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["10M+ assets", "Commercial use", "No attribution"],
+    "icon": "fa-solid fa-image"
+  },
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "description": "Automate repetitive tasks and streamline your workflow with powerful tools.",
+    "price": 79,
+    "period": "mo",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["50+ automations", "API access", "Custom workflows"],
+    "icon": "fa-solid fa-gear"
+  },
+  {
+    "id": 5,
+    "name": "Resume Builder Pro",
+    "description": "Create professional resumes and cover letters that land interviews.",
+    "price": 15,
+    "period": "One-Time",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["150+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "fa-solid fa-file-lines"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Content Kit",
+    "description": "Complete toolkit for creating engaging social media content across all platforms.",
+    "price": 39,
+    "period": "mo",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["5000+ assets", "Scheduler included", "Analytics dashboard"],
+    "icon": "fa-solid fa-mobile-screen"
+  },
+  {
+    "id": 7,
+    "name": "SEO Booster Suite",
+    "description": "Dominate search rankings with AI-powered keyword research and optimization tools.",
+    "price": 59,
+    "period": "mo",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Keyword research", "Competitor analysis", "Rank tracking"],
+    "icon": "fa-solid fa-magnifying-glass"
+  },
+  {
+    "id": 8,
+    "name": "Video Editor Cloud",
+    "description": "Edit stunning videos online without any software installation required.",
+    "price": 35,
+    "period": "mo",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["4K export", "100+ transitions", "Music library"],
+    "icon": "fa-solid fa-clapperboard"
+  }
+]
